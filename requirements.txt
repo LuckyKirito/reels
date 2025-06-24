@@ -1,0 +1,7 @@
+instaloader
+instagrapi
+pandas
+openpyxl
+schedule
+pytz
+requests
