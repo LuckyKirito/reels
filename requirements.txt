@@ -5,3 +5,4 @@ openpyxl
 schedule
 pytz
 requests
+Pillow
